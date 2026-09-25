@@ -7,8 +7,8 @@
 ---
 
 ### 🎯 About Me
-* **Primary Focus:** Building scalable backends, resilient network architectures, and IoT telemetry solutions.
-* **Main Interests:** Distributed Systems, Cloud Computing & Infrastructure, and Network Security.
+* **Primary Focus:** Building scalable back-ends, resilient network architectures, and IoT telemetry solutions.
+* **Main Interests:** Distributed Systems, Cloud Computing & Infrastructure, Artificial Intelligence and Network Security.
 
 ---
 

@@ -8,6 +8,7 @@
 
 ### 🎯 About Me
 * **Primary Focus:** Building scalable back-ends, resilient network architectures, and IoT telemetry solutions.
+* **Current Work:** Building a multi-modal RAG system using VLMs for medical diagnostics to explore RAG architectures and hybrid retrieval.
 * **Main Interests:** Distributed Systems, Cloud Computing & Infrastructure, Artificial Intelligence and Network Security.
 
 ---
